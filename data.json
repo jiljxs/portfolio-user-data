@@ -4,6 +4,8 @@
     "name": "Aarav Sharma",
     "profession": "Web Developer",
     "thumbnail": "https://via.placeholder.com/150?text=Web+Developer",
+    "company": "TechNest Solutions",
+    "experience": 4,
     "projects": [
       {
         "projectId": "W001",
@@ -22,6 +24,8 @@
     "name": "Meera Patel",
     "profession": "Data Scientist",
     "thumbnail": "https://via.placeholder.com/150?text=Data+Scientist",
+    "company": "InnoAnalytics",
+    "experience": 5,
     "projects": [
       {
         "projectId": "D001",
@@ -40,6 +44,8 @@
     "name": "Rohan Desai",
     "profession": "Civil Engineer",
     "thumbnail": "https://via.placeholder.com/150?text=Civil+Engineer",
+    "company": "UrbanCore Infra",
+    "experience": 6,
     "projects": [
       {
         "projectId": "A001",
@@ -58,6 +64,8 @@
     "name": "Simran Kaur",
     "profession": "Mobile App Developer",
     "thumbnail": "https://via.placeholder.com/150?text=App+Developer",
+    "company": "AppWorx Studio",
+    "experience": 3,
     "projects": [
       {
         "projectId": "M001",
@@ -76,6 +84,8 @@
     "name": "Neha Joshi",
     "profession": "Fashion Designer",
     "thumbnail": "https://via.placeholder.com/150?text=Fashion+Designer",
+    "company": "TrendyStitch",
+    "experience": 4,
     "projects": [
       {
         "projectId": "F001",
@@ -94,6 +104,8 @@
     "name": "Aditya Verma",
     "profession": "UI/UX Designer",
     "thumbnail": "https://via.placeholder.com/150?text=UI+UX+Designer",
+    "company": "DesignVerse",
+    "experience": 5,
     "projects": [
       {
         "projectId": "P001",
@@ -112,6 +124,8 @@
     "name": "Rajeev Nair",
     "profession": "Video Content Creator",
     "thumbnail": "https://via.placeholder.com/150?text=Video+Editor",
+    "company": "PixelCraft Studios",
+    "experience": 6,
     "projects": [
       {
         "projectId": "V001",
@@ -130,6 +144,8 @@
     "name": "Kavita Sinha",
     "profession": "Business Analyst",
     "thumbnail": "https://via.placeholder.com/150?text=Business+Analyst",
+    "company": "InsightEdge",
+    "experience": 5,
     "projects": [
       {
         "projectId": "B001",
@@ -148,6 +164,8 @@
     "name": "Tanvi Mehta",
     "profession": "Technical Writer",
     "thumbnail": "https://via.placeholder.com/150?text=Author",
+    "company": "DocuBridge Inc.",
+    "experience": 4,
     "projects": [
       {
         "projectId": "AU001",
@@ -166,6 +184,8 @@
     "name": "Yash Thakkar",
     "profession": "Mechanical Engineer",
     "thumbnail": "https://via.placeholder.com/150?text=Engineer",
+    "company": "GearShift Robotics",
+    "experience": 6,
     "projects": [
       {
         "projectId": "ME001",
@@ -184,6 +204,8 @@
     "name": "Nisha Kapoor",
     "profession": "AI Engineer",
     "thumbnail": "https://via.placeholder.com/150?text=AI+Engineer",
+    "company": "NeuralNet Labs",
+    "experience": 3,
     "projects": [
       {
         "projectId": "AI001",
@@ -202,6 +224,8 @@
     "name": "Rahul Menon",
     "profession": "Electrical Engineer",
     "thumbnail": "https://via.placeholder.com/150?text=Electrical+Engineer",
+    "company": "Voltix Systems",
+    "experience": 5,
     "projects": [
       {
         "projectId": "EE001",
