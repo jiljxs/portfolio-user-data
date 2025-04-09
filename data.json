@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav Sharma",
+        "profession": "Web Developer",
+        "thumbnail": "https://via.placeholder.com/150?text=Web+Developer",
+        "projects": [
+            {
+                "projectId": "W001",
+                "title": "Responsive Portfolio Website",
+                "tools": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript"
+                ]
+            },
+            {
+                "projectId": "W002",
+                "title": "E-commerce Platform",
+                "tools": [
+                    "React",
+                    "Redux",
+                    "Node.js"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Meera Patel",
+        "profession": "Data Scientist",
+        "thumbnail": "https://via.placeholder.com/150?text=Data+Scientist",
+        "projects": [
+            {
+                "projectId": "D001",
+                "title": "Customer Segmentation",
+                "tools": [
+                    "Python",
+                    "KMeans",
+                    "Pandas"
+                ]
+            },
+            {
+                "projectId": "D002",
+                "title": "Stock Price Prediction",
+                "tools": [
+                    "TensorFlow",
+                    "LSTM",
+                    "Matplotlib"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Rohan Desai",
+        "profession": "Architect",
+        "thumbnail": "https://via.placeholder.com/150?text=Architect",
+        "projects": [
+            {
+                "projectId": "A001",
+                "title": "Urban Housing Project",
+                "tools": [
+                    "AutoCAD",
+                    "SketchUp",
+                    "Revit"
+                ]
+            },
+            {
+                "projectId": "A002",
+                "title": "Eco-Friendly Office Space",
+                "tools": [
+                    "Rhino",
+                    "Grasshopper",
+                    "V-Ray"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Simran Kaur",
+        "profession": "Mobile App Developer",
+        "thumbnail": "https://via.placeholder.com/150?text=App+Developer",
+        "projects": [
+            {
+                "projectId": "M001",
+                "title": "Fitness Tracking App",
+                "tools": [
+                    "Flutter",
+                    "Firebase",
+                    "Dart"
+                ]
+            },
+            {
+                "projectId": "M002",
+                "title": "Food Delivery App",
+                "tools": [
+                    "React Native",
+                    "Redux",
+                    "Express"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Neha Joshi",
+        "profession": "Fashion Designer",
+        "thumbnail": "https://via.placeholder.com/150?text=Fashion+Designer",
+        "projects": [
+            {
+                "projectId": "F001",
+                "title": "Spring Summer Collection",
+                "tools": [
+                    "Illustrator",
+                    "Photoshop",
+                    "Clo3D"
+                ]
+            },
+            {
+                "projectId": "F002",
+                "title": "Runway Lookbook",
+                "tools": [
+                    "Procreate",
+                    "InDesign",
+                    "Canva"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Aditya Verma",
+        "profession": "Product Designer",
+        "thumbnail": "https://via.placeholder.com/150?text=Product+Designer",
+        "projects": [
+            {
+                "projectId": "P001",
+                "title": "Smartwatch UI Design",
+                "tools": [
+                    "Figma",
+                    "Sketch",
+                    "InVision"
+                ]
+            },
+            {
+                "projectId": "P002",
+                "title": "SaaS Dashboard",
+                "tools": [
+                    "Adobe XD",
+                    "Zeplin",
+                    "Material UI"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Rajeev Nair",
+        "profession": "Video Editor",
+        "thumbnail": "https://via.placeholder.com/150?text=Video+Editor",
+        "projects": [
+            {
+                "projectId": "V001",
+                "title": "Short Film Editing",
+                "tools": [
+                    "Premiere Pro",
+                    "After Effects",
+                    "Audition"
+                ]
+            },
+            {
+                "projectId": "V002",
+                "title": "YouTube Channel Branding",
+                "tools": [
+                    "Final Cut Pro",
+                    "Canva",
+                    "DaVinci Resolve"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Kavita Sinha",
+        "profession": "Business Analyst",
+        "thumbnail": "https://via.placeholder.com/150?text=Business+Analyst",
+        "projects": [
+            {
+                "projectId": "B001",
+                "title": "Market Research Report",
+                "tools": [
+                    "Excel",
+                    "Power BI",
+                    "Google Sheets"
+                ]
+            },
+            {
+                "projectId": "B002",
+                "title": "Customer Churn Analysis",
+                "tools": [
+                    "Tableau",
+                    "SQL",
+                    "Python"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Tanvi Mehta",
+        "profession": "Author",
+        "thumbnail": "https://via.placeholder.com/150?text=Author",
+        "projects": [
+            {
+                "projectId": "AU001",
+                "title": "Mystery Novel Series",
+                "tools": [
+                    "Scrivener",
+                    "Grammarly",
+                    "Word"
+                ]
+            },
+            {
+                "projectId": "AU002",
+                "title": "Children's Storybook",
+                "tools": [
+                    "Canva",
+                    "Procreate",
+                    "Pages"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Yash Thakkar",
+        "profession": "Mechanical Engineer",
+        "thumbnail": "https://via.placeholder.com/150?text=Engineer",
+        "projects": [
+            {
+                "projectId": "ME001",
+                "title": "Robotic Arm Prototype",
+                "tools": [
+                    "SolidWorks",
+                    "MATLAB",
+                    "Arduino"
+                ]
+            },
+            {
+                "projectId": "ME002",
+                "title": "3D Printed Gearbox",
+                "tools": [
+                    "AutoCAD",
+                    "Cura",
+                    "Fusion 360"
+                ]
+            }
+        ]
+    }
+]
